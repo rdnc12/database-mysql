@@ -7,7 +7,5 @@ With an appointment it is noted in which treatment room the appointment will tak
 A treatment room has a unique number consisting of the floor number and the number of the room itself.
 The outpatient clinic consists of several floors and each floor has its own specialty.
 
-Please sketch the ERD according to information and the table below. After that make a screen shot and upload it until 03.11.2019 20:00.
-If you have any question, please feel free to ask.
 
  
